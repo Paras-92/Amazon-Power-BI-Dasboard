@@ -19,6 +19,7 @@ The dashboard explores the following important questions:
 5. **Demographic Analysis**: What is the relationship between age and gender based on the number of orders?
 6. **Delivery Partner Performance**: Which delivery partner contributed the most to deliveries?
 7. **Top Selling Categories**: Which product category had the highest sales?
+   ![image](https://github.com/user-attachments/assets/3956160e-64b0-4dd6-9751-9a6bde1a0fc5)
 
 ## Features
 
